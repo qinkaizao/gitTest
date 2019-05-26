@@ -3,3 +3,4 @@ seconed
 thirs
 branch test master
 bug fixed
+bug 1 fix
